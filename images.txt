@@ -1,2 +1,1 @@
-docker.io/library/alpine:3.13
-docker.io/library/golang:1.20-alpine
+franky1/tesseract
