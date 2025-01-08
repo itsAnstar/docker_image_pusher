@@ -1,1 +1,1 @@
-franky1/tesseract
+nginx:latest
